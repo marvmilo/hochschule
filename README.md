@@ -1,0 +1,2 @@
+# hochschule
+Scripts für Hoschschule
