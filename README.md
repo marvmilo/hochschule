@@ -1,2 +1,1 @@
-# hochschule
-Scripts für Hoschschule
+# Semester 4 Informatik
